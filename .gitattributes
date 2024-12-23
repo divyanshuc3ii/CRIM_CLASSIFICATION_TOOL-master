@@ -7,3 +7,4 @@ backend/ml_model/* filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
+crime-classifier/backend/ml_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
